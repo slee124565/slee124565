@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Lee 👋
+
+I am currently the product and R&D department manager of a 30-person startup company [FLH Co. Ltd.](https://www.flh.com.tw/), responsible for the development and maintenance of Smart Home related Internet of Things (IoT) systems.
+
+In addition to independently developing several industry-leading smart home functional products ([Home Box-Siri](https://www.flh.com.tw/product/p-89/)、[DaikinVRV Box](https://www.flh.com.tw/product/p-98/)、[TaiSEIA智慧家電控制器](https://www.flh.com.tw/product/p-99/)) for my company, he also led eight colleagues to work together to create products and services that meet the needs of home and commercial customers.
 
 <!--
 **slee124565/slee124565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
