@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=slee124565&theme=radical&show_icons=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=slee124565&theme=radical&show_icons=true" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slee124565&layout=compact&theme=radical" width="400" />
 </p>
 
